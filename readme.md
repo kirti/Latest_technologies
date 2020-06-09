@@ -1,4 +1,4 @@
-This project willl help to learn latest technologies and working on small projects to help you all to understand all thes technologies 
+This project willl help to learn latest technologies and working on small projects to help you all to understand all these technologies 
 
 
 #### 1. JamStack 
@@ -9,6 +9,7 @@ This project willl help to learn latest technologies and working on small projec
 #### 6. RXJs
 #### 7. manifest file - Reusable component 
 #####8  Graphsql 
+#####9. ReactNavtive
 
 // should know 
 #### 8. AWS 
